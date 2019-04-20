@@ -4,7 +4,8 @@ Prácticas, tareas y examen realizadas en Pruebas de Penetración.
 
 ## Red Team 
 **Red team.ctb  Red team.pdf**
-En este documento se muestra todo el proceso de que se lleva acabo en el procesos de reconocimiento. 
+
+_En este documento se muestra todo el proceso de que se lleva acabo en el procesos de reconocimiento._ 
 
 ## TTL Ping
 **ping.py**
@@ -23,6 +24,7 @@ donde archivo.txt es el archivo que contiene las direcciones IP.
 
 ## Enumeracion SMTP
 **smtp.py**
+
 _En este programa se realiza una enumeración de usuarios en SMTP, utilizando los comandos VRY y RCPT, el programa recibe una lista de 
 usuarios la cual se utilizará para enumerar los usuarios, la dirección IP del objetivo y el método a utilizar ya sea VRFY o RCPT, mostrando
 los usuarios validos._
@@ -48,18 +50,22 @@ python escaner.py -i 192.168.1.67
 
 ## setoolkit
 **setoolkit.pdf**
+
 _En este documento se muestra la realización de la práctica setoolkit que utiliza la herramiento setoolkit, la cual nos permite clonar un 
 sitio web y realizar un ataque ARP y DNS spoofing._ 
 
 ## Pass-the-hash
 **pass-the-hash.pdf**
+
 _En este documento se muestra una investigacion del ataque pass-the-hash._
 
 ## Examen
 **Reporte Ejecutivo.pdf**
+
 _En este documento se muestra un reporte ejecutivo de las pruebas de penetracion que se realizo a la direccion IP 167.99.232.57, mostrando 
 de forma general las vulnerabilidades encontradas en forma de resumen._
 
 **Reporte Tecnico.pdf**
+
 _En este documento se muestra un reporte tecnico de las pruebas de penetracion que se realizo a la direccion IP 167.99.232.57, mostrando
 de forma detallada cada vulnerabilidad encontrada, evidencias de cada vulnerabilidad y recomendacion para solucionarla._
